@@ -69,5 +69,5 @@ go.work
 # Ignore code-workspaces
 *.code-workspace
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,go,linux
-
+authentication-service/authApp
+broker-service/brokerApp
