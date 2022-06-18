@@ -71,5 +71,6 @@ go.work
 
 authentication-service/authApp
 broker-service/brokerApp
+logging-service/loggingServiceApp
 
-project/db-data/postgres/
+project/db-data/
