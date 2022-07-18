@@ -72,5 +72,6 @@ go.work
 authentication-service/authApp
 broker-service/brokerApp
 logging-service/loggingServiceApp
+mail-service/mailServiceApp
 
 project/db-data/
