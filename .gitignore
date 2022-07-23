@@ -73,5 +73,6 @@ authentication-service/authApp
 broker-service/brokerApp
 logging-service/loggingServiceApp
 mail-service/mailServiceApp
+listener-service/listenerServiceApp
 
 project/db-data/
